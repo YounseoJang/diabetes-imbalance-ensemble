@@ -5,7 +5,7 @@ This repository contains the implementation of a feature-based ensemble model fo
 ## Features
 - SMOTE + RUS preprocessing
 - Feature-importance-based ensemble using Random Forest
-- Comparison with 11 baseline ML/DL models
+- Comparison with 11 baseline ML/DL models + 3 resampling methods
 
 ## Requirements
 - Python 3.8+
